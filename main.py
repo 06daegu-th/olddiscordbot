@@ -1,3 +1,4 @@
+#https://github.com/06daegu-th/olddiscordbot
 import discord, asyncio, os, datetime
 from discord.ext import discord
 
